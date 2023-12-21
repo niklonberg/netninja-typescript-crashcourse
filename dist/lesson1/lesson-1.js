@@ -24,7 +24,7 @@ function printMenuItem(item) {
 //error example 3
 //printMenuItem({title: 'ball', cost: 20}) title not assignable on object
 //correct example
-printMenuItem({ name: "banana", cost: 1 });
+// printMenuItem({ name: "banana", cost: 1 });
 /* 4 - self documenting */
 //if you click printMenuItem below and press f12 it takes you to fn def.
 //printMenuItem();
